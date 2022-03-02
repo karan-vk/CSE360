@@ -1,0 +1,10 @@
+/Misc
+**/logs/
+*.jpg
+*.jpeg
+*.png
+*.json
+*.zip
+*.h5
+*.csv
+*.wandb
